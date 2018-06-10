@@ -1,1 +1,1 @@
-# cpp-ssg
+# Simple Sudoku Generator
